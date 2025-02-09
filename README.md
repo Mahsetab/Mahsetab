@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahsetab Hassan</h1>
-<h3 align="center">🎯 SQA Engineer | From Manual Testing to Automation Excellence</h3>
+<h3 align="center">🎯 Software Quality Assurance(SQA) Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahsetab&label=Profile%20views&color=0e75b6&style=flat" alt="mahsetab" /> </p>
 
