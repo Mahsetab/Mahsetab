@@ -2,11 +2,12 @@
 <h3 align="center">🎯 Software Quality Assurance(SQA) Engineer </h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNzYWp2N2Fwb25idHRwajZweXc4N21vM3FhOXIwYTZ4dmxsazQ2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahsetab&label=Profile%20views&color=0e75b6&style=flat" alt="mahsetab" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahsetab" alt="mahsetab" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGowYTMwNTBiazQxOWppeng3NDN1bTdjNm5ta3hyeXFkaGU2ZjY5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 
 - 🔭 I’m currently working on **SQA PROJECTS**
 
