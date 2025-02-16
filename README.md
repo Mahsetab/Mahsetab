@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **SQA PROJECTS**
 
-- 🌱 I’m currently learning **SQA**
+- 🌱 I’m currently learning **Automation-Testing**
 
 - 📫 How to reach me **siam589971@gmail.com**
 
